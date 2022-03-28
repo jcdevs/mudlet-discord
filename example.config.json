@@ -1,0 +1,8 @@
+{
+    "BOT_TOKEN": "your discord bot token",
+    "DISCORD_CHANNEL": "discord channel id",
+    "WATCH_FILE": "file that pushes messages from Mudlet to Discord",
+    "WRITE_FILE": "file that pushes commands from Discord to Mudlet",
+    "DISCORD_USERNAME": "your Discord username, if you wish to control access to this bot",
+    "DISCORD_DISCRIMINATOR": "your Discord discriminator (e.g. #0000) if you wish to control access to this bot"
+}
