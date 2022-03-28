@@ -1,0 +1,16 @@
+{
+  "name": "mudlet-discord",
+  "version": "1.0.0",
+  "description": "Transports messages between Mudlet and Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "JC",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "line-reader": "^0.4.0",
+    "node-watch": "^0.7.3"
+  }
+}
