@@ -4,5 +4,5 @@ Bridges communication between Mudlet and Discord. Receive MUD messages in Discor
 ## Usage
 Requires Node.js and Discord bot credentials obtained from their developer portal.
 Make a config.json following the example file.
-`npm i`
-`npm start`
+```npm i
+npm start```
